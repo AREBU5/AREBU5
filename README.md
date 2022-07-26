@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AREBU5
+- 👋 Hi, I’m Daniel Arebu
 - 👀 I’m interested in python for data analysis
 - 🌱 I’m currently learning python for data analysis
 - 💞️ I’m looking to collaborate on python
