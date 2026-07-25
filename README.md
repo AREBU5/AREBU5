@@ -7,7 +7,6 @@ I'm an Operations and Data Analyst with a passion for transforming complex data 
 - Power BI
 - Tableau
 - Databricks
-- Microsoft Excel
 - Data Analysis & Business Intelligence
 
 ### 🎓 Education
