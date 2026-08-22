@@ -1,30 +1,13 @@
-# Hi, I'm Daniel Arebu 👋
+# Hi, I'm Daniel
 
-I'm an Operations and Data Analyst with a passion for transforming complex data into actionable business insights. I enjoy solving real-world business problems through data analysis, process optimisation, and data visualisation.
+# Operations Manager | # Quality Control | # Business & Operations Analyst
 
-###  Skills & Tools
-- SQL
-- Power BI
-- Tableau
-- Databricks
-- Data Analysis & Business Intelligence
+I turn complex data into clear insights and practical solutions that move businesses forward. With a background in operations management and quality control, I bring a hands-on, people-first approach to analytics — bridging the gap between raw numbers and decisions that actually matter.
 
-### Education
-- Master's in International Business Management
-- Bachelor's in Economics
+I care deeply about the human side of operations as much as the data side, believing the best solutions come from understanding both the numbers and the people behind them.
 
-###  Current Focus
-My goal is to leverage data to improve operational efficiency and support strategic decision-making.
-
-###  Open to Opportunities
-I'm actively seeking opportunities in:
-- Operations Analysis
-- Operations Analysis
-- Data Analysis
-- Business Intelligence
-- Reporting & Analytics
-
-Feel free to explore my repositories to see the projects I've been working on. I'm always open to connecting, collaborating, and learning from other professionals in the data community.
+# Focus: process improvement, data-driven decision making, operational efficiency
+# Tools: SQL, Power BI, Tableau, Azure Databricks, Python (pandas, matplotlib)
 
 
 <!---
